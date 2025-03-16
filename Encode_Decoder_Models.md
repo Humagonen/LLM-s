@@ -140,9 +140,9 @@ Encoder-decoder models, also known as **sequence-to-sequence (Seq2Seq)** models,
 ------
 The choice between encoder, decoder, or encoder-decoder models depends on the NLP task you want to perform:
 
-If you need text understanding (classification, search), use encoder-only models like BERT.
-If you need text generation (chatbots, AI writing), use decoder-only models like GPT-4.
-If you need text transformation (summarization, translation), use encoder-decoder models like T5.
+1. If you need text understanding (classification, search), use encoder-only models like BERT.
+2. If you need text generation (chatbots, AI writing), use decoder-only models like GPT-4.
+3. If you need text transformation (summarization, translation), use encoder-decoder models like T5.
 
 
 ![image](https://github.com/user-attachments/assets/5db80df1-1f7c-4382-950c-95a7d0474b5a)
