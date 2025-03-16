@@ -138,5 +138,6 @@ Encoder-decoder models, also known as **sequence-to-sequence (Seq2Seq)** models,
 | **Encoder-Decoder** | T5, BART      | Transforming text into another format | Summarization, translation, question answering |
 
 ------
+![image](https://github.com/user-attachments/assets/5db80df1-1f7c-4382-950c-95a7d0474b5a)
 
 ## 
